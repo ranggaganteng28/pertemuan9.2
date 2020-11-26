@@ -12,7 +12,7 @@
 
 ### TugasLatihan 5 
 
-![gambar output](gambar/soallatihan5.PNG)
+![soallatihan5](https://user-images.githubusercontent.com/73011940/100313034-5467bb80-2fe6-11eb-98cc-cec499b4cbcf.PNG)
 
 ## Source Code Latihan 5
 ```python
@@ -71,11 +71,10 @@ print(30*"═")
 
 ## Hasil Output
 
-![gambar output](gambar/hasillatihan5.png)
-
+![hasillatihan5 png](https://user-images.githubusercontent.com/73011940/100313087-6f3a3000-2fe6-11eb-8298-da644a515de1.png)
 ## Soal Praktikum 5
 
-![gambar output](gambar/soalpraktikum5.png)
+<img width="403" alt="soalpraktikum5" src="https://user-images.githubusercontent.com/73011940/100313369-16b76280-2fe7-11eb-949c-d173578494bc.png">
 
 ## PenjelasanPraktikum 5
 
@@ -299,8 +298,10 @@ while True:
 ```
 
 ## Hasil Output Praktikum 5
-![gambar output](gambar/hasilpraktikum5.png)
+![hasilpraktikum5 png](https://user-images.githubusercontent.com/73011940/100313515-5f6f1b80-2fe7-11eb-92b6-c12d04ccc07b.png)
+
 
 ## Hasil Database Dari Inputan  Praktikum 5
-![gambar output](gambar/database5.png)
+![database5 png](https://user-images.githubusercontent.com/73011940/100313563-7f9eda80-2fe7-11eb-96e0-ff625e42babd.png)
+
 
